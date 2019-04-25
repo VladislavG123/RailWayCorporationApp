@@ -1,0 +1,17 @@
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\RailWayCorporationApp.exe.config
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\RailWayCorporationApp.exe
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\RailWayCorporationApp.pdb
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\EntityFramework.dll
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\EntityFramework.xml
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.csprojAssemblyReference.cache
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.csproj.CoreCompileInputs.cache
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.csproj.CopyComplete
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.exe
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.pdb
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.Migrations.Initial.resources
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.csproj.GenerateResource.cache
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.Migrations.AddedWay.resources
+c:\users\гороховв.corp\source\repos\RailWayCorporationApp\RailWayCorporationApp\obj\Debug\RailWayCorporationApp.Migrations.AddUser.resources
